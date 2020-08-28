@@ -54,6 +54,10 @@ class Calculator extends Component {
     }
 
     calculate = () => {
+        // calculate the total only if the last stockNumber is NOT a operators.
+
+        
+
         try {
             this.setState({
                 // eslint-disable-next-line 
