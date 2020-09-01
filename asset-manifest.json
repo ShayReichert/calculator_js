@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/votre_nom_de_depot/static/css/main.38e1fe89.chunk.css",
-    "main.js": "/votre_nom_de_depot/static/js/main.d3f24497.chunk.js",
-    "main.js.map": "/votre_nom_de_depot/static/js/main.d3f24497.chunk.js.map",
-    "runtime-main.js": "/votre_nom_de_depot/static/js/runtime-main.614d1387.js",
-    "runtime-main.js.map": "/votre_nom_de_depot/static/js/runtime-main.614d1387.js.map",
-    "static/js/2.7fbf350a.chunk.js": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js",
-    "static/js/2.7fbf350a.chunk.js.map": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js.map",
-    "index.html": "/votre_nom_de_depot/index.html",
-    "precache-manifest.662110fcea8da4236c454b65877a5c7c.js": "/votre_nom_de_depot/precache-manifest.662110fcea8da4236c454b65877a5c7c.js",
-    "service-worker.js": "/votre_nom_de_depot/service-worker.js",
-    "static/css/main.38e1fe89.chunk.css.map": "/votre_nom_de_depot/static/css/main.38e1fe89.chunk.css.map",
-    "static/js/2.7fbf350a.chunk.js.LICENSE.txt": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js.LICENSE.txt"
+    "main.css": "/calculator_js/static/css/main.38e1fe89.chunk.css",
+    "main.js": "/calculator_js/static/js/main.258763fa.chunk.js",
+    "main.js.map": "/calculator_js/static/js/main.258763fa.chunk.js.map",
+    "runtime-main.js": "/calculator_js/static/js/runtime-main.bb75da7f.js",
+    "runtime-main.js.map": "/calculator_js/static/js/runtime-main.bb75da7f.js.map",
+    "static/js/2.7fbf350a.chunk.js": "/calculator_js/static/js/2.7fbf350a.chunk.js",
+    "static/js/2.7fbf350a.chunk.js.map": "/calculator_js/static/js/2.7fbf350a.chunk.js.map",
+    "index.html": "/calculator_js/index.html",
+    "precache-manifest.42fc09c022ca82de7ca35875f92a5e87.js": "/calculator_js/precache-manifest.42fc09c022ca82de7ca35875f92a5e87.js",
+    "service-worker.js": "/calculator_js/service-worker.js",
+    "static/css/main.38e1fe89.chunk.css.map": "/calculator_js/static/css/main.38e1fe89.chunk.css.map",
+    "static/js/2.7fbf350a.chunk.js.LICENSE.txt": "/calculator_js/static/js/2.7fbf350a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.614d1387.js",
+    "static/js/runtime-main.bb75da7f.js",
     "static/js/2.7fbf350a.chunk.js",
     "static/css/main.38e1fe89.chunk.css",
-    "static/js/main.d3f24497.chunk.js"
+    "static/js/main.258763fa.chunk.js"
   ]
 }
