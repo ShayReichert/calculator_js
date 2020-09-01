@@ -1,7 +1,9 @@
 import React from 'react'
 
 const Display = (props) => {
-    const { stockNumber, result } = props;
+
+    const { stockNumber, result } = props
+
     return (
         <div>
             <div id="display-shadow">

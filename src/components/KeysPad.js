@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 const allButtons = [
     { name: "C", displayName: "C", id: "clear" },
-    { name: "/", displayName: "/", id: "divide"},
+    { name: "/", displayName: "/", id: "divide" },
     { name: "*", displayName: "x", id: "multiply" },
     { name: "7", displayName: "7", id: "seven" },
     { name: "8", displayName: "8", id: "eight" },
@@ -38,12 +38,13 @@ class KeysPad extends Component {
                             {item.displayName}
                         </button>
                     );
-
                 })}
 
             </div>
         )
+    
     }
+
 }
 
 export default KeysPad
