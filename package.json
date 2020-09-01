@@ -2,7 +2,7 @@
   "name": "calculator-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://votre_username_githubgithub.io/votre_nom_de_depot/" ,
+  "homepage": "https://shayreichert.github.io/calculator_js/" ,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
