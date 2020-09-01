@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/votre_nom_de_depot/static/css/main.38e1fe89.chunk.css",
+    "main.js": "/votre_nom_de_depot/static/js/main.d3f24497.chunk.js",
+    "main.js.map": "/votre_nom_de_depot/static/js/main.d3f24497.chunk.js.map",
+    "runtime-main.js": "/votre_nom_de_depot/static/js/runtime-main.614d1387.js",
+    "runtime-main.js.map": "/votre_nom_de_depot/static/js/runtime-main.614d1387.js.map",
+    "static/js/2.7fbf350a.chunk.js": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js",
+    "static/js/2.7fbf350a.chunk.js.map": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js.map",
+    "index.html": "/votre_nom_de_depot/index.html",
+    "precache-manifest.662110fcea8da4236c454b65877a5c7c.js": "/votre_nom_de_depot/precache-manifest.662110fcea8da4236c454b65877a5c7c.js",
+    "service-worker.js": "/votre_nom_de_depot/service-worker.js",
+    "static/css/main.38e1fe89.chunk.css.map": "/votre_nom_de_depot/static/css/main.38e1fe89.chunk.css.map",
+    "static/js/2.7fbf350a.chunk.js.LICENSE.txt": "/votre_nom_de_depot/static/js/2.7fbf350a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.614d1387.js",
+    "static/js/2.7fbf350a.chunk.js",
+    "static/css/main.38e1fe89.chunk.css",
+    "static/js/main.d3f24497.chunk.js"
+  ]
+}
