@@ -17,6 +17,11 @@ $red-bg-keys: #FF8067;
   box-sizing: border-box;
 }
 
+.App {
+  display: flex;
+  height: 100vh;
+}
+
 .main-calculator {
   display: flex;
   margin: auto;
@@ -55,6 +60,16 @@ $red-bg-keys: #FF8067;
   border: 0.2 solid #707070;
   box-shadow: 2px 2px 3px #2e2e2e;
   border-radius: 3px;
+  h1, h2 {
+    text-align: right;
+    margin-right: 10px;
+  }
+  h2 {
+    font-size: 50px;
+  }
+  h1 {
+    font-size: 40px;
+  }
 }
 
 // Calculator keys

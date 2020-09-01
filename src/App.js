@@ -1,14 +1,16 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.scss';
 import Calculator from './components/Calculator'
 
+class App extends Component {
+  render() {
 
-function App() {
-  return (
-    <div className="App">
-      <Calculator />
-    </div>
-  );
+    return (
+      <div className="App">
+          <Calculator />
+      </div>
+    )
+  }
 }
 
 export default App;
